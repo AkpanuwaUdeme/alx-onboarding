@@ -1,0 +1,8 @@
+//function runningSum (input)
+  //set sum = 0
+  //while (input>=0) then
+  //update sum = sum+input
+ //if (input<0)  then
+  // return sum
+  //END IF
+END
