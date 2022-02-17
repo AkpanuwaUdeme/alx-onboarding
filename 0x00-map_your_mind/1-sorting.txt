@@ -1,0 +1,7 @@
+//create function sortNum (input1, input2, input3)
+	//create an empty array named xxx
+	//populate arr with input1, input2, input3
+	//call a array.math.sort() function to sort xxx
+	//set sorted = xxx converted to string
+	//return sorted
+END
